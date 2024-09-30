@@ -84,4 +84,5 @@ The model is based on the **VGG16** architecture, a popular CNN model designed f
 5. Output Layer: A softmax layer with 6 neurons corresponding to the 6 waste categories.
 
 ## Performance
-[image](Performance.png)
+![image](https://github.com/user-attachments/assets/4e2821db-596c-4360-8ced-e18f963e0037)
+
