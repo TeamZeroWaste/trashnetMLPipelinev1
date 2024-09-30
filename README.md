@@ -11,7 +11,7 @@ This project implements an automated waste classification system using a SVM mod
 ---
 
 ## Project Description
-The primary goal of this project is to automate the waste sorting process, aiding in recycling and waste management. The system classifies waste into multiple categories (glass, paper, cardboard, plastic, metal, etc.) based on visual input. The model is trained on the **TrashNet** dataset and achieves an accuracy of 80%.
+The primary goal of this project is to automate the waste sorting process, aiding in recycling and waste management. The system classifies waste into multiple categories based on visual input. The model is trained on the **TrashNet** dataset and achieves an accuracy of over 80%.
 
 
 ---
@@ -85,4 +85,8 @@ The model is based on the **VGG16** architecture, a popular CNN model designed f
 
 ## Performance
 ![image](https://github.com/user-attachments/assets/4e2821db-596c-4360-8ced-e18f963e0037)
+
+## Demo
+![image](https://github.com/user-attachments/assets/1f18ad8e-4b74-4926-a9af-81a0633b4bd8)
+
 
