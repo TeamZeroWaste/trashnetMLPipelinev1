@@ -8,6 +8,9 @@ This project implements an automated waste classification system using a SVM mod
 - [Datasets](#datasets)
 - [Model Architecture](#model-architecture)
 - [Performance](#performance)
+- [Demo](#demo)
+- [License](#License)
+
 ---
 
 ## Project Description
@@ -89,4 +92,6 @@ The model is based on the **VGG16** architecture, a popular CNN model designed f
 ## Demo
 ![image](https://github.com/user-attachments/assets/1f18ad8e-4b74-4926-a9af-81a0633b4bd8)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
 
